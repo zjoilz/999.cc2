@@ -1,0 +1,6 @@
+if game.PlaceId == 286090429 then --- Arsenal
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zjoilz/999.cc2/main/Arsenal'))()
+end
+if game.PlaceId == 2788229376 then --- Da Hood
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zjoilz/999.cc2/main/Protected'))()
+end
